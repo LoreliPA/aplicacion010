@@ -7,7 +7,7 @@ version = "1.0.0">
 
 <!-- versionCode is optional and Android only -->
 
-<name>app 10 piano</name>
+<name>Mi primer piano.</name>
 
 <description>
 Aplicacion que toca el piano
@@ -23,5 +23,5 @@ Loreli Ponce Ayala.
 <gap:plugin name="com.rjfun.cordova.plugin.lowlatencyaudio" version="1.0"/>
 <!-- Colocar icono app -->
 
-<icon src="res/android/piano.png"/>
+<icon src="res/android/mdpi.png"/>
 </widget>
